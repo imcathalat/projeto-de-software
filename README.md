@@ -1,1 +1,4 @@
-# projeto-de-software
+# Projeto de Software
+
+- Isadora Cathalat
+- Leandro Pacheco
