@@ -14,22 +14,17 @@ Histórias de Usuário - Sistema de Gestão das Olimpíadas
 | US09 | Atleta        | Quero visualizar minha agenda de competições para me organizar melhor. |
 | US10 | Comitê Organizador    | Deve poder exportar relatórios e dados das competições em formatos como PDF e CSV para documentação oficial. |
 
-
 # Diagrama De Casos De Uso
-<img width="500px" height="500px" src="https://github.com/imcathalat/projeto-de-software/tree/main/sgo/artefatos/casos_de_uso_sgo.png"/>
+![Diagrama de Casos de Uso](https://raw.githubusercontent.com/imcathalat/projeto-de-software/main/sgo/artefatos/casos_de_uso_sgo.png)
 
 # Diagrama de Classes
-
-<img width="500px" height="500px" src="https://github.com/imcathalat/projeto-de-software/tree/main/sgo/artefatos/diagrama_de_classe_sgo.jpeg"/>
+![Diagrama de Classes](https://raw.githubusercontent.com/imcathalat/projeto-de-software/main/sgo/artefatos/diagrama_de_classe_sgo.jpeg)
 
 # Diagrama de Pacotes
-
-<img width="500px" height="500px" src="https://github.com/imcathalat/projeto-de-software/tree/main/sgo/artefatos/DiagramaDePacotes.jpg"/>
+![Diagrama de Pacotes](https://raw.githubusercontent.com/imcathalat/projeto-de-software/main/sgo/artefatos/DiagramaDePacotes.jpg)
 
 # Diagrama de Componentes
-
-<img width="500px" height="500px" src="https://github.com/imcathalat/projeto-de-software/tree/main/sgo/artefatos/DiagramaDeComponentes.jpg"/>
+![Diagrama de Componentes](https://raw.githubusercontent.com/imcathalat/projeto-de-software/main/sgo/artefatos/DiagramaDeComponentes.jpg)
 
 # Diagrama de Implantação
-
-<img width="500px" height="500px" src="https://github.com/imcathalat/projeto-de-software/tree/main/sgo/artefatos/diagrama_de_implantacao_sgo.png"/>
+![Diagrama de Implantação](https://raw.githubusercontent.com/imcathalat/projeto-de-software/main/sgo/artefatos/diagrama_de_implantacao_sgo.png)
